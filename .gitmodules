@@ -1,0 +1,27 @@
+[submodule "resin-yocto-scripts"]
+	path = resin-yocto-scripts
+	url = https://github.com/resin-os/resin-yocto-scripts.git
+[submodule "layers/meta-fsl-arm"]
+	path = layers/meta-fsl-arm
+	url = https://github.com/Freescale/meta-fsl-arm.git
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+[submodule "layers/meta-resin"]
+	path = layers/meta-resin
+	url = https://github.com/resin-os/meta-resin.git
+[submodule "layers/oe-meta-go"]
+	path = layers/oe-meta-go
+	url = https://github.com/mem/oe-meta-go.git
+[submodule "layers/meta-digi"]
+	path = layers/meta-digi
+	url = https://github.com/digi-embedded/meta-digi.git
+[submodule "layers/poky"]
+	path = layers/poky
+	url = https://git.yoctoproject.org/git/poky
+[submodule "layers/meta-qt5"]
+	path = layers/meta-qt5
+	url = https://github.com/meta-qt5/meta-qt5.git
+[submodule "layers/meta-fsl-demos"]
+	path = layers/meta-fsl-demos
+	url = https://github.com/Freescale/meta-freescale-distro.git
